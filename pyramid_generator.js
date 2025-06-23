@@ -4,3 +4,5 @@ console.log("   ###   ");
 console.log("  #####  ");
 console.log(" ####### ");
 console.log("#########");
+
+// HAHA , this is just the starting!
